@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hello cuties, the one and the only Steffy in person here 💖👋</h1>
 
-<!--
-**only-steffy/only-steffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I kinda suck at descriptions so let me get this quick, i hope social anxiety won't kill me along the way 🤣**
 
-Here are some ideas to get you started:
+- Ask me about anythig, from programming questions to random bullshits or just use my dm as an vent place 😉🥰
+- A great place to reach me is by Email: **contact@steffy.dev** but **dm's on Discord are always prefered: only.steffy**
+- I'm usually a busy person, i have so many projects and still none of them are finished yet, i'm just too lazy 🤣🤔
+- I got my own useless website, if other people have why i should't, right?: [https://steffy.dev](https://steffy.dev)
+- What languages do i speak you wonder?: *bro, i'm a software developer, i talk in public class and system.out.print (java developer, deploying swing apps)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Bruh, no no, no wall of text for today** *..intense fast writing..*
+
+
+
